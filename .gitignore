@@ -1,0 +1,8 @@
+bin/
+*.o
+*.zip
+data/*.txt
+data/*.bin
+results/*.csv
+results/*.json
+.DS_Store
